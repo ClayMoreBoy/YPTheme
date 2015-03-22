@@ -26,7 +26,8 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
     </ul>
 </div>
 <div class="page">
-<?php $this->pageNav('[ PREV ]', '[ NEXT ]'); ?>
+ <?php $this->pageLink('[ PREV ]','prev'); ?>
+ <?php $this->pageLink('[ NEXT ]','next'); ?>
 </div>
 
 <?php $this->need('footer.php'); ?>
