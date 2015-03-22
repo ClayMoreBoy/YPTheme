@@ -1,0 +1,26 @@
+/*
+Theme Name: YPMobile
+Theme URI: http://www.YoonPer.com
+Author: YoonPer
+Version: 1.0
+*/
+
+*{margin:0;padding:0;}
+body{font-size:12px;font-family:"Microsoft Yahei",Arial,Helvetica,sans-serif;background:#FFF;}
+a{outline:0;text-decoration:none;}
+li{list-style:none}
+.wrap{overflow:hidden;}
+.header{padding:20px 0;border-bottom:5px solid #EEE;text-align:center;color:#FFF;background:#0C80E8;}
+.name{font-size:18px;}
+.content{margin:10px 20px;}
+.list li{padding:10px 0;border-bottom:1px solid #EEE;}
+.list a{font-size:16px;color:#666;}
+.info{margin-top:5px;}
+.i{margin-right:5px;color:#999;}
+.article{margin:10px 0 15px;line-height:20px;font-size:14px;color:#666;}
+.content .title{margin-top:20px;font-size:16px;color:#666;}
+.article img,.article embed{max-width:100%;height:auto;}
+.page{margin:20px 0;text-align:center;}
+.page a{margin:0 10px;color:#999;}
+.footer{padding:23px 0;border-top:5px solid #E8E8E8;text-align:center;background:#F0F0F0;color:#999;}
+.footer a,.footer span{margin:0 10px;color:#999;}
